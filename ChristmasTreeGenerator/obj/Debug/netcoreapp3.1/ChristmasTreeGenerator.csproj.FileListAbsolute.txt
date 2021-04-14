@@ -1,0 +1,13 @@
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.exe
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.deps.json
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.runtimeconfig.json
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.runtimeconfig.dev.json
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.dll
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\bin\Debug\netcoreapp3.1\ChristmasTreeGenerator.pdb
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.csprojAssemblyReference.cache
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.AssemblyInfoInputs.cache
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.AssemblyInfo.cs
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.dll
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.pdb
+C:\Users\bnkho\source\repos\ChristmasTreeSolution\ChristmasTreeGenerator\obj\Debug\netcoreapp3.1\ChristmasTreeGenerator.genruntimeconfig.cache
